@@ -1,67 +1,51 @@
 # PySpark Data Engineering Journey
 
-Welcome to my PySpark learning repository.
+This repository documents my learning journey in PySpark using Databricks Community Edition.
 
-This repository documents my hands-on learning journey in PySpark using Databricks Community Edition.
-
-The goal is to create beginner-friendly notes, examples, and notebooks that anyone can follow while learning Data Engineering with PySpark.
+The goal is to create beginner-friendly notes, notebooks, and examples for anyone learning PySpark and Data Engineering.
 
 ---
 
-## Topics Covered
+## Tutorials
 
-### Data Reading
+### Tutorial 01 - PySpark Fundamentals ✅
 
-- CSV Reading
-- JSON Reading
+Topics Covered:
 
-### Schema Management
+* CSV Reading
+* JSON Reading
+* Schema Inference
+* DDL Schema
+* StructType Schema
+* Select
+* Alias
+* Filter
 
-- Schema Inference
-- DDL Schema
-- StructType Schema
+### Tutorial 02 - Coming Soon ⏳
 
-### Data Transformations
+### Tutorial 03 - Coming Soon ⏳
 
-- Select
-- Alias
-- Filter
+---
+
+## Tools Used
+
+* Databricks Community Edition
+* PySpark
+* Python
 
 ---
 
 ## Learning Progress
 
-| Topic | Status |
-|---------|---------|
-| CSV Reading | ✅ |
-| JSON Reading | ✅ |
-| Schema Inference | ✅ |
-| DDL Schema | ✅ |
-| StructType Schema | ✅ |
-| Select | ✅ |
-| Alias | ✅ |
-| Filter | ✅ |
-
+| Topic             | Status |
+| ----------------- | ------ |
+| Data Loading      | ✅      |
+| Schema Definition | ✅      |
+| Select            | ✅      |
+| Alias             | ✅      |
+| Filter            | ✅      |
 
 ---
 
-## Environment
+⭐ Follow along as I continue my Data Engineering journey.
 
-- Databricks Community Edition
-- PySpark
-- Python
-
----
-
-## Repository Structure
-
-```text
-01_Data_Reading
-02_Schema_Definition
-03_Select_and_Alias
-04_Filter_Transformation
-```
-
----
-
-⭐ This repository grows as I continue learning Data Engineering and PySpark.
